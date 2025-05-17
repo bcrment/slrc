@@ -1,6 +1,5 @@
 # 🎵 SLRC SPOTIFY-JSON to LRC Converter
 
-![GitHub](https://img.shields.io/github/license/bcrment/slrc)
 ![C Version](https://img.shields.io/badge/C-17-blue)
 ![Status](https://img.shields.io/badge/status-stable-green)
 
