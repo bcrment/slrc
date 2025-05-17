@@ -5,7 +5,7 @@
 
 A **SPOTIFY-JSON to LRC Converter** is a lightweight tool that converts **Spotify-synced lyrics** from JSON format to the **LRC (Lyrics) format**, making it compatible with various media players and karaoke software.
 
-## 🛠️ Installation & Compilation
+## Installation & Compilation
 
 ### **1️⃣ Dependencies**
 
