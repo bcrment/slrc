@@ -38,6 +38,12 @@ gcc -o slrc main.c converter.c -I/mingw64/include -L/mingw64/lib -ljansson -std=
 ./slrc lyrics.json > output.lrc
 ```
 
+---
+
+**Obs**: There is a compiled exe in slrc-c/bin folder if you want to use it. 
+
+---
+
 The output file will contain the lyrics formatted with timestamps, ready for use in **LRC-compatible** music players.
 
 ### **Example Output**
